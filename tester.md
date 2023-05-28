@@ -169,3 +169,28 @@ _git config --global user.email_ - просто без почты вызовет
 
 &#9745; Да
 
+# Популярные БД
+
+&#9744; Oracle
+
+&#9745; MySQL
+
+&#9745; Microsoft SQL Server
+
+&#9744; PostgreSQL
+
+&#9744; Redis
+
+&#9744; Elasticsearch
+
+&#9745; SQLite
+
+&#9744; MariaDB
+
+&#9744; Solr
+
+&#9744; Neo4j
+
+&#9744; HBase
+
+&#9744; Couchbase
